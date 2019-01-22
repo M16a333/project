@@ -1,5 +1,5 @@
 header {
-    background-color: radial-gradient(triangle, red, #8a2be2)
+    background-image: linear-gradient(rgb(156, 55, 156), #8a2be2);
     color: white;
 }
 h1, h2 {
