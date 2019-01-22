@@ -1,0 +1,11 @@
+header {
+    background-color: radial-gradient(triangle, red, #8a2be2)
+    color: white;
+}
+h1, h2 {
+    font-family: Arial, sans-serif;
+}
+p {
+    font-size: 22px;
+    line-height: 30px;
+}
