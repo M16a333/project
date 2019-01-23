@@ -1,11 +1,22 @@
-header {
+
+body {
+    font-size: 22px;
+    line-height: 34px;
+}
+    header,
+    nav {
     background-image: linear-gradient(rgb(156, 55, 156), #8a2be2);
     color: white;
-}
-h1, h2 {
     font-family: Arial, sans-serif;
+    padding: 16px;
 }
+h1, 
+h2 {
+    font-family: Arial, sans-serif;
+    margin-bottom: -30px;
+}
+h2,
 p {
-    font-size: 22px;
-    line-height: 30px;
+    padding: 10px;
 }
+
